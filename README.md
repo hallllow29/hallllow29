@@ -10,9 +10,9 @@ My goal is to begin a career as a Penetration Tester, where I can apply my analy
 <br>
 
 <p align="center">
-  <a href="https://github.com/o-teu-username">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-teu-username&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-teu-username&layout=compact&theme=dracula" height="170px"/>
+  <a href="https://github.com/hallllow29">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?hallllow29&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallllow29&layout=compact&theme=dracula" height="170px"/>
   </a>
 </p>
 
