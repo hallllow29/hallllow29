@@ -1,33 +1,41 @@
-### Hi there 👋, I'm Pedro Antunes!
-*Cybersecurity Student & Aspiring Penetration Tester*
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pedro+Antunes!;Cybersecurity+%26+Networks+Student;Aspiring+Network+Pentester;Breaking+networks+to+build+them+stronger." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-I am a passionate and driven cybersecurity student based in Portugal, currently in my final year of a Bachelor's degree. My primary interests lie in offensive security, network analysis, and vulnerability assessment. I thrive on the challenge of understanding how systems work in order to secure them, and I am constantly learning by solving challenges on platforms like TryHackMe and building a practical, hands-on skillset.
+### 👋 About Me
 
-My goal is to begin a career as a Penetration Tester, where I can apply my analytical skills and technical knowledge to help organizations improve their security posture.
+I am a passionate cybersecurity student from Portugal, specializing in the intersection of **offensive security** and **deep network infrastructure**. I believe that to truly break a network, you must first understand how to build it. This dual focus is the core of my methodology.
+
+I actively hone these skills by performing penetration tests on platforms like Hack The Box and TryHackMe, while simultaneously building a robust networking foundation through my ongoing Cisco **CCNA** studies. My goal is to start a career where I can leverage my deep understanding of networking to perform realistic and impactful security assessments, helping organizations secure their core infrastructure from sophisticated threats.
 
 <br>
 
 <p align="center">
   <a href="https://github.com/hallllow29">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?hallllow29&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hallllow29&show_icons=true&theme=dracula&rank_icon=github" height="170px"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallllow29&layout=compact&theme=dracula" height="170px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hallllow29&theme=dracula&column=7"/>
   </a>
 </p>
 
 ---
 
 ### 🛠️ Technical Skills
-
 <p>
   <b>Languages & Databases:</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 <p>
   <b>Offensive Security Tools:</b><br>
@@ -35,7 +43,6 @@ My goal is to begin a career as a Penetration Tester, where I can apply my analy
   <img src="https://img.shields.io/badge/Metasploit-DC2F24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF7A00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="John the Ripper" />
 </p>
 <p>
   <b>Systems & Networking:</b><br>
@@ -48,14 +55,16 @@ My goal is to begin a career as a Penetration Tester, where I can apply my analy
 ---
 
 ### 🎓 Certifications
-
-#### **Completed Certifications**
 * 🏆 **eJPTv2 (eLearnSecurity Junior Penetration Tester)**
 * 🏆 **CompTIA A+**
+* 🎓 **Cisco Certified Network Associate (CCNA)** - *In Progress*
+* 🎓 **CompTIA Security+** - *Future Goal*
 
-#### **In Progress & Future Goals**
-* 🎓 **Cisco Certified Network Associate (CCNA)**
-* 🎓 **CompTIA Security+**
+---
+
+### 📂 Portfolio Projects
+
+*You can find my detailed project reports in my **[Cybersecurity Portfolio Repository](https://github.com/hallllow29/cybersecurity-portfolio)**.*
 
 ---
 
