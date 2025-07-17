@@ -1,16 +1,13 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pedro+Antunes!;Cybersecurity+%26+Networks+Student;Aspiring+Network+Pentester;Breaking+networks+to+build+them+stronger." alt="Typing SVG" />
-  </a>
-</p>
+# Pedro Antunes
+### Offensive Security Professional with a Deep Focus on Network Infrastructure
 
 ---
 
 ### 👋 About Me
 
-I am a passionate cybersecurity student from Portugal, specializing in the intersection of **offensive security** and **deep network infrastructure**. I believe that to truly break a network, you must first understand how to build it. This dual focus is the core of my methodology.
+I am a passionate cybersecurity professional from Portugal, specializing in the intersection of **offensive security** and **deep network infrastructure**. I believe that to truly break a network, you must first understand how to build it. This dual focus is the core of my methodology.
 
-I actively hone these skills by performing penetration tests on platforms like Hack The Box and TryHackMe, while simultaneously building a robust networking foundation through my ongoing Cisco **CCNA** studies. My goal is to start a career where I can leverage my deep understanding of networking to perform realistic and impactful security assessments, helping organizations secure their core infrastructure from sophisticated threats.
+I actively hone these skills by performing penetration tests on platforms like Hack The Box and TryHackMe, while simultaneously building a robust networking foundation through my ongoing Cisco **CCNA** studies. My goal is to leverage my deep understanding of networking to perform realistic and impactful security assessments, helping organizations secure their core infrastructure from sophisticated threats.
 
 <br>
 
@@ -29,13 +26,27 @@ I actively hone these skills by performing penetration tests on platforms like H
 
 ---
 
+### 💡 My Approach to Security
+My methodology is rooted in a simple principle: **break it to build it better**. I am driven by the process of deconstructing complex network environments, identifying the root cause of vulnerabilities, and understanding the attacker's mindset to create more resilient systems.
+
+### 🎯 Key Areas of Interest
+* Red Teaming & Threat Emulation
+* Network Penetration Testing
+* Active Directory Security
+* Purple Teaming & Collaborative Defense
+
+### 👨‍💻 Currently Learning
+* **Cisco CCNA:** Deepening my foundational knowledge of network routing, switching, and infrastructure security to better understand and exploit network-level vulnerabilities.
+* **CTF Platforms (HTB & THM):** Actively solving challenges to keep my practical, hands-on penetration testing skills sharp and up-to-date with current Tactics, Techniques, and Procedures (TTPs).
+
+---
+
 ### 🛠️ Technical Skills
 <p>
   <b>Languages & Databases:</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 <p>
   <b>Offensive Security Tools:</b><br>
@@ -64,7 +75,7 @@ I actively hone these skills by performing penetration tests on platforms like H
 
 ### 📂 Portfolio Projects
 
-*You can find my detailed project reports in my **[Cybersecurity Portfolio Repository](https://github.com/hallllow29/cybersecurity-portfolio)**.*
+*You can find my detailed project reports and CTF write-ups in my **[Cybersecurity Portfolio Repository](https://github.com/hallllow29/cybersecurity-portfolio)**.*
 
 ---
 
