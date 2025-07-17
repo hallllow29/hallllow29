@@ -1,13 +1,14 @@
 # Pedro Antunes
-### Offensive Security Professional with a Deep Focus on Network Infrastructure
+### Cybersecurity Student & Practitioner
+*Focusing on the intersection of Offensive Security and Network Infrastructure*
 
 ---
 
 ### 👋 About Me
 
-I am a passionate cybersecurity professional from Portugal, specializing in the intersection of **offensive security** and **deep network infrastructure**. I believe that to truly break a network, you must first understand how to build it. This dual focus is the core of my methodology.
+I am a passionate and driven cybersecurity student from Portugal, specializing in the intersection of **offensive security** and **deep network infrastructure**. I believe that to truly break a network, you must first understand how to build it. This dual focus is the core of my methodology.
 
-I actively hone these skills by performing penetration tests on platforms like Hack The Box and TryHackMe, while simultaneously building a robust networking foundation through my ongoing Cisco **CCNA** studies. My goal is to leverage my deep understanding of networking to perform realistic and impactful security assessments, helping organizations secure their core infrastructure from sophisticated threats.
+I actively hone these skills by performing penetration tests on platforms like Hack The Box and TryHackMe, while simultaneously building a robust networking foundation through my ongoing Cisco **CCNA** studies. My goal is to begin a career where I can leverage my deep understanding of networking to perform realistic and impactful security assessments, helping organizations secure their core infrastructure from sophisticated threats.
 
 <br>
 
