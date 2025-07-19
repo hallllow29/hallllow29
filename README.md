@@ -86,7 +86,3 @@ My methodology is rooted in a simple principle: **break it to build it better**.
 [![Email](https://img.shields.io/badge/Email-Contact_Me-grey?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:pdgant5@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/hallllow29/hallllow29/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
